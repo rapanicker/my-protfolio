@@ -1,2 +1,3 @@
-# my-protfolio
-My professional work repository
+# Rajesh Panicker
+
+My professional portfolio . It uses AWS and ReactJS.
